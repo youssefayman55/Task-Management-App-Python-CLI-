@@ -47,7 +47,7 @@ The program starts and asks how many tasks you want to add initially.
 Tasks are stored in a Python list.
 
 5. Menu Operations
-6. 
+
 The user can perform actions using a menu:
 
 1- ➕ Add Task
